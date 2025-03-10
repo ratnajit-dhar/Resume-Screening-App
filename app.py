@@ -73,7 +73,7 @@ def main():
     st.set_page_config(page_title='Resume Screening App', page_icon='📄', layout='wide')
 
     st.title('Resume Screening App')
-    st.markdown('Upload a resume in PDF or DOCX format and get the predicted job gategory.')
+    st.markdown('Upload a resume in PDF or DOCX format and get the predicted job category.')
     st.markdown('---')
 
     uploaded_file = st.file_uploader('Upload Resume', type=['pdf', 'docx'])
