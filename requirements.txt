@@ -1,0 +1,17 @@
+nltk==3.8.1
+PyPDF2==3.0.1
+python_docx==1.1.2
+streamlit==1.36.0
+geopandas==0.14.4
+matplotlib==3.7.5
+matplotlib-inline==0.1.7
+matplotlib-venn==1.1.1
+numpy==1.26.4
+pandas==2.2.3
+pandas-datareader==0.10.0
+pandas-gbq==0.25.0
+pandas-profiling==3.6.6
+pandas-stubs==2.2.2.240909
+pandasql==0.7.3
+seaborn==0.12.2
+sklearn-pandas==2.2.0
